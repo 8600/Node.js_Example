@@ -1,0 +1,1 @@
+console.log("\x1b[1;67;42mText Color!\x1b[m");
